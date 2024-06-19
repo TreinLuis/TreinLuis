@@ -61,11 +61,11 @@
    </tr>
 </table>
 
-  <img align="right" alt="CODE-CAT" height="150" style="border-radius:50px;" src="https://www.slashdata.co/static/08194db47131e52b659c54c3063ab24b/a3669/0Pg0MOa8Rn9AW7EB.png">
+  <img align="right" alt="CODE-CAT" height="40" style="border-radius:0px;" src="https://cdn-icons-png.flaticon.com/512/6463/6463383.png">
   
 <h2> Contact 📩</h2>
 <div align="center"> 
-  <a href="https://github.com/Taimisson" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/TreinLuis" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "mailto:21luiseduardo2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lu%C3%ADs-eduardo-trein-rocha-55b087234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
